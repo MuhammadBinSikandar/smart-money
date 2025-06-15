@@ -1,1 +1,3 @@
 # smart-money
+
+A complete guide
